@@ -1,0 +1,7 @@
+Steps deployed to predict Severity
+1.Import the dataset and neccesary libraries
+2.Preprocess the data check for outliers,null values,missing values and remove them
+3.plot correleation plot and apply feature selection to select the most important features
+4.try out different multiclass models such as Logistic regression,Catboost,XGBoost,RandomForest and neural networks.
+5.Select the best parameter and hypertune the model
+6.Create submission csv using predicted values
