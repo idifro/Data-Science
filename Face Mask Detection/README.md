@@ -51,6 +51,6 @@ In this step, I built a flask API endpoint that was hosted on a local webserver 
 
 Live video's each frame is sent to the API in JSON encoded form whcih returns the face co-ordinates followed by Classification result. That is plotted in the video feed directly.
 
-![Output image](https://github.com/idifro/Data-Science/blob/master/Face%20Mask%20Detection/Output/Screenshot%20(115).png "Output 1")
+![Output image](https://github.com/idifro/Data-Science/blob/master/Face%20Mask%20Detection/Output/Screenshot%20(117).png "Output 1")
 
 ![Output Image 2](https://github.com/idifro/Data-Science/blob/master/Face%20Mask%20Detection/Output/Screenshot%20(116).png "Output 2")
